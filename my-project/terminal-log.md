@@ -1,11 +1,17 @@
-# Terminal Navigation Log
+## Task 5.3: Useful Terminal Commands
 
-## Exercise 2: Project Structure
+find . -name "*.html"
+grep "class" index.html
+grep -r "button" ./src/
+history
 
-mkdir my-project
-cd my-project
-mkdir src docs tests
-mkdir src/css src/js src/images
-touch README.md
-ls
-ls src
+touch styles.css
+head -10 styles.css
+tail -10 styles.css
+wc index.html
+wc -l index.html
+
+find . -name "*.html" | wc -l
+grep -r "contact" .
+wc -l styles.css
+history | tail -10
