@@ -1,0 +1,29 @@
+[33mcommit cb347cd995439b784fc6af9cedc8a04f12e23c75[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: fabby <fabianmunga163@gmail.com>
+Date:   Sat May 2 20:10:56 2026 +0000
+
+    feat(Task 5.4): create project setup shell script
+
+[33mcommit 4cf6beab7ad20ca9163eb17e0a095121f5c0dca8[m
+Author: fabby <fabianmunga163@gmail.com>
+Date:   Sat May 2 20:08:16 2026 +0000
+
+    feat(Task 5.3): practice useful terminal commands
+
+[33mcommit 89ea434e68515a6202d6b53366a5d421bab8c9d7[m
+Author: fabby <fabianmunga163@gmail.com>
+Date:   Sat May 2 20:04:38 2026 +0000
+
+    feat(Task 5.2): practice file operations
+
+[33mcommit c00ea4f80fd0ccf521ac67227ea81ec8bbe2d9ce[m
+Author: fabby <fabianmunga163@gmail.com>
+Date:   Sat May 2 20:01:53 2026 +0000
+
+    feat: create project folder structure
+
+[33mcommit e8fa69ed1266a118a88b95a85449e5a7134e0b6a[m
+Author: fabby <fabianmunga163@gmail.com>
+Date:   Sat May 2 22:15:57 2026 +0300
+
+    Initial commit
